@@ -106,7 +106,7 @@ while (numero != 0):
 
 #Suma de 12 en 12
 
-for i in range(0, 100, 12):
+for i in range(0, 200, 12):
     print(i, end=", ")
 
 print("\n")
@@ -116,7 +116,7 @@ centinela = 0
 contadorPositivos = 0
 contadorNegativos = 0
 
-while(centinela < 5):
+while(centinela < 20):
     numero = int(input("Ingrese un número:  "))
     if(numero > 0):
         contadorPositivos += 1

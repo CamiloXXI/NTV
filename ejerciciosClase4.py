@@ -60,7 +60,7 @@ for i in range(7, -1, -1):
 '''
 #Reto4
 numeros = []
-for i in range(0, 3, 1):
+for i in range(0, 4, 1):
     numeroIngresado = int(input("Ingrese número  "))
     numeros.append(numeroIngresado)
 
