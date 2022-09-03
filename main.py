@@ -169,5 +169,5 @@ git push origin --delete rama
 
 #Git
 '''
-Git reset --soft (ID del Commit)
+Git reset --soft (ID del Commit) 
 '''
