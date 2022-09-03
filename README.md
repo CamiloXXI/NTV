@@ -18,6 +18,9 @@
 - While
 - For
 - Listas
+- Diccionarios
+- Tuplas
+- Ramas
 - Retos
 
 ![ALT](URL)
