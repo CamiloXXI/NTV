@@ -103,7 +103,7 @@ cuentas = []
 opcion = 10
 
 while(opcion != 0):
-    print("     OPCIONES      \n1-> Almacenar información de un cliente (nombre,apellido,cedula)\n2-> Almacenar información de la cuenta (numeroCuenta, saldo)\n3-> Consultar Saldo\n4-> Ingresar o retirar efectivo.\n0-> SALIR")
+    print("     OPCIONES      \n1-> Almacenar información de un cliente (nombre,apellido,cedula)\n2-> Almacenar información de la cuenta (numeroCuenta, saldo)\n3-> Consultar Saldo\n4-> Ingresar o retirar efectivo.\n0-> SALIR ¡MUERTE A LOS LANNISTER! Excepto al gnomo.")
     opcion = int(input("Qué opción desea elegir?  "))
     if(opcion == 0):
         break
