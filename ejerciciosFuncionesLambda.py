@@ -8,9 +8,9 @@ numeroPar(2)
 
 
 #Reto 2
-mi_lista = [18, -3, 5, 0, -1, 12]
-lista_nueva = list(filter(lambda numero: (numero > 10), mi_lista))
-print(lista_nueva) # [18, 12]
+mi_lista = [18, -3, 5, 0, -1, 12, 11]
+mayoresADiez = [x for x in mi_lista if x > 10]
+print(mayoresADiez) # [18, 12]
 
 #Reto 3
 
